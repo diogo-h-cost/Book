@@ -1,3 +1,5 @@
+def quadrado(a):
+    return a ** 2
+
 a = int(input())
-area = a ** 2
-print(f"area_quadrado({a}) == {area}")
+print(f"area_quadrado({a}) == {quadrado(a)}")
