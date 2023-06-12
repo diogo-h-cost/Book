@@ -1,0 +1,10 @@
+prime
+segun 2
+ter
+quart
+quinta
+6 six
+7 seven
+8 eight
+9 nine
+ten 10
