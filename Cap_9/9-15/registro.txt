@@ -1,0 +1,2 @@
+teste1 = 4 pontos
+teste2 = 5 pontos
