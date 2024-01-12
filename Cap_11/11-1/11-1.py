@@ -1,6 +1,6 @@
 import sqlite3
 
-conexao = sqlite3.connect("Caminho/casa.db")
+conexao = sqlite3.connect("Caminho/precos.db")
 cursor = conexao.cursor()
 
 cursor.execute("CREATE TABLE precos(nome TEXT, preco REAL)")
